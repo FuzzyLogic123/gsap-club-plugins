@@ -1,4 +1,5 @@
 {
+	"version": "0.0.1",
     "name": "inertia-plugin",
     "description": "inertia plugin",
 	"module": "index.js",
