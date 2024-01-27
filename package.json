@@ -3,7 +3,5 @@
     "name": "inertia-plugin",
     "description": "inertia plugin",
 	"module": "index.js",
-	"main": "dist/gsap.js",
-    "types": "types/index.d.ts",
 	"sideEffects": false
 }
