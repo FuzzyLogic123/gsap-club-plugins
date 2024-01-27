@@ -1,0 +1,1 @@
+export { InertiaPlugin } from "./InertiaPlugin"
