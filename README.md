@@ -1,1 +1,1 @@
-# inertia-plugin
+# gsap-club-plugins
